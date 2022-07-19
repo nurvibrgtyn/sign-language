@@ -1,0 +1,26 @@
+<annotation>
+	<folder>terimakasih</folder>
+	<filename>terimakasih.3c757968-06f3-11ed-9ad3-f8b54d439909.jpg</filename>
+	<path>C:\Users\gita prasetiya\TUBES\TFODCourse\Tensorflow\workspace\images\collectedimages\terimakasih\terimakasih.3c757968-06f3-11ed-9ad3-f8b54d439909.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TerimaKasih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>240</ymin>
+			<xmax>451</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

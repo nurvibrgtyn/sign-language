@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tidak</folder>
+	<filename>tidak.25dc61a0-06f3-11ed-8fbd-f8b54d439909.jpg</filename>
+	<path>C:\Users\gita prasetiya\TUBES\TFODCourse\Tensorflow\workspace\images\collectedimages\tidak\tidak.25dc61a0-06f3-11ed-8fbd-f8b54d439909.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tidak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>158</ymin>
+			<xmax>184</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>
